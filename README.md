@@ -3,26 +3,26 @@ This is a react unbox dapp
 
 ## Working
 
-mkdir react
+1- mkdir react
 
-cd react
+2- cd react
 
-truffle unbox react
-
-
-truffle test
-
-truffle compile
+3- truffle unbox react
 
 
-Test dapp:            cd client && npm test
+4- truffle test
 
-Run dev server:       cd client && npm run start
+5- truffle compile
+
+
+6- Test dapp:            cd client && npm test
+
+### 7- Run dev server:       cd client && npm run start
 
 Build for production: cd client && npm run build
 
 
-“npm run start” will fire up your React.js site.
+### “npm run start” will fire up your React.js site.
 
 ### Reference : https://medium.com/coinmonks/developing-ethereum-smart-contracts-with-the-truffle-suite-including-web3-808428adec5c
 
